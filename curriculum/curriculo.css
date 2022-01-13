@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+  }
+  body {
+    width: 50%;
+    margin: 10% 25% 10% 25%;
+  }
+  h1,
+  h2 {
+    color: rgba(0, 0, 0, 0.658);
+    text-align: center;
+  }
+  h3 {
+    color: rgb(39, 78, 110);
+    border-bottom: 1px solid rgb(39, 78, 110);
+    margin-top: 50px;
+  }
+  ul {
+    margin-left: 30px;
+  }
+  
